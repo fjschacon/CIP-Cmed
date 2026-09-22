@@ -53,7 +53,7 @@ As diferentes divisões e seus respectivos usuários poderão acessar o sistema 
 * **Estilização:** Tailwind CSS
 * **Backend e Banco de Dados:** Supabase
 * **Hospedagem e Deploy:** Vercel
-* **Automação e ferramentas auxiliares:** Python e Playwright
+* **Automação e ferramentas auxiliares:** Java e Playwright
 * **Ambiente de desenvolvimento:** Visual Studio Code
 * **Controle de versão:** Git / GitHub
 
@@ -67,7 +67,7 @@ De forma simplificada:
 
 **Usuário → Aplicação React → Supabase → Banco de Dados**
 
-Ferramentas desenvolvidas em Python e Playwright também podem ser utilizadas como apoio em processos de inspeção, automação e auditoria do sistema.
+Ferramentas desenvolvidas em Java e Playwright também podem ser utilizadas como apoio em processos de inspeção, automação e auditoria do sistema.
 
 ## Controle e segurança
 
